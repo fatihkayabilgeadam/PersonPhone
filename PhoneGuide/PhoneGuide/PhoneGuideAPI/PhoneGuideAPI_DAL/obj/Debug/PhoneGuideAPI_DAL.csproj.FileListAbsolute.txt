@@ -1,0 +1,30 @@
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_DAL.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_DAL.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_DAL.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_ENTITY.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_ENTITY.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_ENTITY.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.csprojAssemblyReference.cache
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.csproj.CoreCompileInputs.cache
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.csproj.CopyComplete
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_DAL.dll.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_DAL.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_DAL.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_ENTITY.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_ENTITY.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\PhoneGuideAPI_ENTITY.dll.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.csprojAssemblyReference.cache
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.csproj.CoreCompileInputs.cache
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.csproj.CopyComplete
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI_DAL\obj\Debug\PhoneGuideAPI_DAL.pdb

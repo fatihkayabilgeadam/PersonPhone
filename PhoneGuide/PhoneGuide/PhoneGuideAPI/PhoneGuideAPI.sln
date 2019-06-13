@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneGuideAPI", "PhoneGuideAPI\PhoneGuideAPI.csproj", "{475CB664-82A7-4D34-AF72-76E63A9C2A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneGuideAPI_DAL", "PhoneGuideAPI_DAL\PhoneGuideAPI_DAL.csproj", "{080038C4-7156-4867-A393-45D0D704924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneGuideAPI_ENTITY", "PhoneGuideAPI_ENTITY\PhoneGuideAPI_ENTITY.csproj", "{AECE7B02-77B6-4841-8380-6CF83526FAB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{729D7853-F370-419F-A4E3-844B212E3506}"
+	ProjectSection(SolutionItems) = preProject
+		2.sql = 2.sql
+		DBScript.txt = DBScript.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475CB664-82A7-4D34-AF72-76E63A9C2A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475CB664-82A7-4D34-AF72-76E63A9C2A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475CB664-82A7-4D34-AF72-76E63A9C2A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475CB664-82A7-4D34-AF72-76E63A9C2A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080038C4-7156-4867-A393-45D0D704924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080038C4-7156-4867-A393-45D0D704924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080038C4-7156-4867-A393-45D0D704924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080038C4-7156-4867-A393-45D0D704924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECE7B02-77B6-4841-8380-6CF83526FAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECE7B02-77B6-4841-8380-6CF83526FAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECE7B02-77B6-4841-8380-6CF83526FAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECE7B02-77B6-4841-8380-6CF83526FAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F64914F4-D164-4D4E-9A37-58C9E2F52BCF}
+	EndGlobalSection
+EndGlobal

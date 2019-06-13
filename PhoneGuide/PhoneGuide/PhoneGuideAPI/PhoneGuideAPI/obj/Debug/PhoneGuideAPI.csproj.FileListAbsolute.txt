@@ -1,0 +1,198 @@
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.WebApi.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csc.exe
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csc.exe.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csc.rsp
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csi.exe
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csi.exe.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csi.rsp
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.AppContext.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Console.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\vbc.exe
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\vbc.exe.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\vbc.rsp
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Antlr3.Runtime.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Newtonsoft.Json.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_DAL.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_ENTITY.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Swashbuckle.Core.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Helpers.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Mvc.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Optimization.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Razor.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\WebActivatorEx.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\WebGrease.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_DAL.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_DAL.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_ENTITY.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_ENTITY.dll.config
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Newtonsoft.Json.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Helpers.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Mvc.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Optimization.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Razor.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Antlr3.Runtime.pdb
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.csprojAssemblyReference.cache
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.csproj.CoreCompileInputs.cache
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.csproj.CopyComplete
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.dll
+C:\Users\FATİH KAYA\Desktop\Odev Proje\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.dll.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI.WebApi.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csc.exe
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csc.exe.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csc.rsp
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csi.exe
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csi.exe.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\csi.rsp
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.AppContext.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Console.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.Compression.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.IO.Pipes.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Claims.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.ValueTuple.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.XPath.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\vbc.exe
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\vbc.exe.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\vbc.rsp
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\VBCSCompiler.exe
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Antlr3.Runtime.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.SqlServer.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Newtonsoft.Json.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_DAL.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_ENTITY.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Swashbuckle.Core.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Net.Http.Formatting.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Helpers.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.WebHost.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Mvc.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Optimization.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Razor.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Deployment.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Razor.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\WebActivatorEx.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\WebGrease.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_DAL.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_DAL.dll.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_ENTITY.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\PhoneGuideAPI_ENTITY.dll.config
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\EntityFramework.SqlServer.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Newtonsoft.Json.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Net.Http.Formatting.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Helpers.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Http.WebHost.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Mvc.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Optimization.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.Razor.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Deployment.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Web.WebPages.Razor.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Antlr3.Runtime.pdb
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.csprojAssemblyReference.cache
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.csproj.CoreCompileInputs.cache
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.csproj.CopyComplete
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.dll
+D:\PhoneGuide\PhoneGuide\PhoneGuideAPI\PhoneGuideAPI\obj\Debug\PhoneGuideAPI.pdb
